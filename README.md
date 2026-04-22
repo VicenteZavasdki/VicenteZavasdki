@@ -26,8 +26,23 @@ Deployada e usada em contexto real.
 ## Dotfiles
 
 O meu setup de desenvolvimento: CachyOS + Sway + Ghostty + Fish.
+Com CI para validar configs automaticamente.
+
+[![Validate Dotfiles](https://github.com/VicenteZavasdki/dotfiles/actions/workflows/validate.yml/badge.svg)](https://github.com/VicenteZavasdki/dotfiles/actions/workflows/validate.yml)
 
 [Ver dotfiles →](https://github.com/VicenteZavasdki/dotfiles)
+
+---
+
+## Setup Rápido
+
+Quer o meu setup num comando?
+
+```bash
+bash <(curl -s https://gist.githubusercontent.com/VicenteZavasdki/4b389b1b6c1713d14d38c054537ad7d5/raw/setup.sh)
+```
+
+[Gist →](https://gist.github.com/VicenteZavasdki/4b389b1b6c1713d14d38c054537ad7d5)
 
 ---
 
