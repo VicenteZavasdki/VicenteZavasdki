@@ -31,10 +31,10 @@
 
 ## 🚀 Projects
 
-### [Tarot-SaaS](https://github.com/VicenteZavasdki/Tarot-SaaS)
-Fullstack SaaS platform for tarot readings
-- **Stack:** Rust + Actix-web + Next.js + PostgreSQL
-- **Status:** In development
+### [AI Dev Workflow](https://github.com/VicenteZavasdki/ai-dev-workflow)
+AI-augmented development setup with OpenCode, MCP servers, and custom skills
+- **Stack:** OpenCode, MCP, 44+ Skills, 5 Agents
+- **Status:** ✅ Active
 
 ### [Dotfiles](https://github.com/VicenteZavasdki/dotfiles)
 CachyOS + Sway WM configuration with CI validation
@@ -60,6 +60,7 @@ Animated portfolio site with Catppuccin theme
 
 - **Portfolio:** [vicentezavasdki.github.io/portfolio](https://vicentezavasdki.github.io/portfolio/)
 - **Email:** [contato@zavasdki.com](mailto:contato@zavasdki.com)
+- **GitHub:** [github.com/VicenteZavasdki](https://github.com/VicenteZavasdki)
 
 ---
 
