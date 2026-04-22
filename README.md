@@ -34,23 +34,11 @@ Com CI para validar configs automaticamente.
 
 ---
 
-## Setup Rápido
+## Gists
 
-Quer o meu setup num comando?
-
-```bash
-bash <(curl -s https://gist.githubusercontent.com/VicenteZavasdki/4b389b1b6c1713d14d38c054537ad7d5/raw/setup.sh)
-```
-
-[Gist →](https://gist.github.com/VicenteZavasdki/4b389b1b6c1713d14d38c054537ad7d5)
-
----
-
-## Aliases Úteis
-
-Os meus aliases mais usados para Fish Shell.
-
-[Ver aliases →](https://gist.github.com/VicenteZavasdki/f9737942c6d76b410e60aecc37a63a69)
+- [Setup Script](https://gist.github.com/VicenteZavasdki/4b389b1b6c1713d14d38c054537ad7d5) - Instalação automática
+- [Aliases](https://gist.github.com/VicenteZavasdki/f9737942c6d76b410e60aecc37a63a69) - Fish shell aliases
+- [Setup Guide](https://gist.github.com/VicenteZavasdki/9e2d01fe072dba179e0c6d5068a81025) - Guia completo
 
 ---
 
