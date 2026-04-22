@@ -23,6 +23,14 @@ Deployada e usada em contexto real.
 
 ---
 
+## Dotfiles
+
+O meu setup de desenvolvimento: CachyOS + Sway + Ghostty + Fish.
+
+[Ver dotfiles →](https://github.com/VicenteZavasdki/dotfiles)
+
+---
+
 ## Stack
 
 | Nível | Tecnologias |
