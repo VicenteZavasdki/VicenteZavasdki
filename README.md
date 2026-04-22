@@ -46,6 +46,14 @@ bash <(curl -s https://gist.githubusercontent.com/VicenteZavasdki/4b389b1b6c1713
 
 ---
 
+## Aliases Úteis
+
+Os meus aliases mais usados para Fish Shell.
+
+[Ver aliases →](https://gist.github.com/VicenteZavasdki/f9737942c6d76b410e60aecc37a63a69)
+
+---
+
 ## Stack
 
 | Nível | Tecnologias |
