@@ -3,6 +3,8 @@
 Fullstack júnior. Stack real: JavaScript vanilla, HTML, CSS em produção.
 Rust e Next.js em aprendizagem activa com projecto concreto.
 
+🌐 **Portfolio:** [vicentezavasdki.github.io/portfolio](https://vicentezavasdki.github.io/portfolio/)
+
 ---
 
 ## Projectos
